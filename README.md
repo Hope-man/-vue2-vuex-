@@ -1,4 +1,10 @@
 
+ 
+ 1.安装依赖：npm install 
+ 2.运行项目：npm run dev
+
+
+
 目录 ：
 
    bs_model  业务模型
